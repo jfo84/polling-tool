@@ -10,6 +10,7 @@
     "test": "jest",
     "build": "webpack",
     "start": "open public/index.html",
+    "start:windows": "start public/index.html",
     "start:dev": "webpack-dev-server"
   },
   "author": "jfo84",
